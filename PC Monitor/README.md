@@ -4,7 +4,7 @@ Please note that this is for educational purposes for those who are studying abo
 
 ## Installation
 
-1. Install Python 3.8 or higher
+1. Install Python 3.10
 2. Install the required packages:
    ```bash
    pip install -r requirements.txt
