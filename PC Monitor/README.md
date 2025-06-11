@@ -53,7 +53,8 @@ Available commands:
 
 ## Features
 
-- 
+- Actions with Commands
+- Start up notification
 - Screenshot capture
 - Audio recording
 - Volume control
@@ -77,7 +78,7 @@ This bot is designed exclusively for macOS systems and is currently in an experi
 - The bot requires appropriate permissions to function properly
 - Some features may not work as expected due to the experimental nature
 - Use this tool only for legitimate purposes and with proper authorization
-- The developers are not responsible for any misuse of this software
+- *The developers are not responsible for any misuse of this software*
 
 ### Warning: Unauthorized use of this bot, especially for malicious purposes, may violate laws and ToS.
 
